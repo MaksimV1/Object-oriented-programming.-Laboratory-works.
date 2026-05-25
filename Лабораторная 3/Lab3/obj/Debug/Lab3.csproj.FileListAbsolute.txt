@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 3\Lab3\obj\Debug\Lab3.exe.config
