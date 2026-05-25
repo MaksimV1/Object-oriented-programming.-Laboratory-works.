@@ -1,0 +1,36 @@
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.exe
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.deps.json
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.runtimeconfig.json
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10_Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.csproj.Up2Date
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\refint\Lab10.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\ref\Lab10.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.exe
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.deps.json
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.runtimeconfig.json
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\bin\Debug\net8.0\Lab10_Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.csproj.Up2Date
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\refint\Lab10.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\Lab10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10\obj\Debug\net8.0\ref\Lab10.dll

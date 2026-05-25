@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\bin\Debug\net8.0\Lab10_Library.deps.json
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\bin\Debug\net8.0\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\bin\Debug\net8.0\Lab10_Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\refint\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\ref\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\bin\Debug\net8.0\Lab10_Library.deps.json
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\bin\Debug\net8.0\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\bin\Debug\net8.0\Lab10_Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\refint\Lab10_Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\Lab10_Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\1 семестр\ООП\Лабораторная 10\Lab10_Library\obj\Debug\net8.0\ref\Lab10_Library.dll

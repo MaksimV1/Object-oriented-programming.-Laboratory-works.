@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\bin\Debug\net8.0\Lab11Library.deps.json
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\bin\Debug\net8.0\Lab11Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\bin\Debug\net8.0\Lab11Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\Lab11Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\Lab11Library.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\Lab11Library.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\Lab11Library.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\Lab11Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\refint\Lab11Library.dll
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\Lab11Library.pdb
+C:\Users\Asus\Desktop\Лабораторные\2 курс\ООП\Лабораторная 11\Lab11Library\obj\Debug\net8.0\ref\Lab11Library.dll
