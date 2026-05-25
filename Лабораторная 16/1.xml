@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Place xsi:type="Address">
+    <Name>826207</Name>
+    <Population>81</Population>
+    <Street>Ул. Центральная</Street>
+    <BuildingNumber>153</BuildingNumber>
+    <City>Десензано</City>
+  </Place>
+  <Place>
+    <Name>Виченца</Name>
+    <Population>116408</Population>
+  </Place>
+  <Place xsi:type="Metropolis">
+    <Name>Бергамо</Name>
+    <Population>159361</Population>
+    <FederalDistrict>Приволжский</FederalDistrict>
+    <FounderName>Франческо Сфорца</FounderName>
+    <FoundedYear>1790</FoundedYear>
+    <NumberOfDistricts>24</NumberOfDistricts>
+    <AreaKm2>1577.6216831503532</AreaKm2>
+  </Place>
+  <Place xsi:type="Metropolis">
+    <Name>Милан</Name>
+    <Population>251604</Population>
+    <FederalDistrict>Приволжский</FederalDistrict>
+    <FounderName>Франческо Сфорца</FounderName>
+    <FoundedYear>1403</FoundedYear>
+    <NumberOfDistricts>7</NumberOfDistricts>
+    <AreaKm2>6026.740368726059</AreaKm2>
+  </Place>
+  <Place xsi:type="Metropolis">
+    <Name>Удине</Name>
+    <Population>310701</Population>
+    <FederalDistrict>Дальневосточный</FederalDistrict>
+    <FounderName>Карл V</FounderName>
+    <FoundedYear>1280</FoundedYear>
+    <NumberOfDistricts>21</NumberOfDistricts>
+    <AreaKm2>8284.03741911443</AreaKm2>
+  </Place>
+  <Place xsi:type="City">
+    <Name>Удине</Name>
+    <Population>417237</Population>
+    <FederalDistrict>Северо-Западный</FederalDistrict>
+    <FounderName>Карл V</FounderName>
+    <FoundedYear>1367</FoundedYear>
+  </Place>
+  <Place xsi:type="City">
+    <Name>Верона</Name>
+    <Population>440703</Population>
+    <FederalDistrict>Дальневосточный</FederalDistrict>
+    <FounderName>Витторио Эмануэле</FounderName>
+    <FoundedYear>1038</FoundedYear>
+  </Place>
+  <Place xsi:type="Metropolis">
+    <Name>Пьяченца</Name>
+    <Population>586044</Population>
+    <FederalDistrict>Центральный</FederalDistrict>
+    <FounderName>Карл V</FounderName>
+    <FoundedYear>1114</FoundedYear>
+    <NumberOfDistricts>10</NumberOfDistricts>
+    <AreaKm2>4570.846410211536</AreaKm2>
+  </Place>
+  <Place xsi:type="City">
+    <Name>Максимилиана</Name>
+    <Population>859469</Population>
+    <FederalDistrict>Северо-Западный</FederalDistrict>
+    <FounderName>Карл V</FounderName>
+    <FoundedYear>1496</FoundedYear>
+  </Place>
+  <Place xsi:type="Metropolis">
+    <Name>Венеция</Name>
+    <Population>906855</Population>
+    <FederalDistrict>Сибирский</FederalDistrict>
+    <FounderName>Франческо Сфорца</FounderName>
+    <FoundedYear>1815</FoundedYear>
+    <NumberOfDistricts>16</NumberOfDistricts>
+    <AreaKm2>1863.4875872082696</AreaKm2>
+  </Place>
+</ArrayOfPlace>

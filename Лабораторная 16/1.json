@@ -1,0 +1,88 @@
+[
+  {
+    "$type": "Address",
+    "Street": "\u0423\u043B. \u0426\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u0430\u044F",
+    "BuildingNumber": 153,
+    "City": "\u0414\u0435\u0441\u0435\u043D\u0437\u0430\u043D\u043E",
+    "Name": "826207",
+    "Population": 81
+  },
+  {
+    "Name": "\u0412\u0438\u0447\u0435\u043D\u0446\u0430",
+    "Population": 116408
+  },
+  {
+    "$type": "Metropolis",
+    "NumberOfDistricts": 24,
+    "AreaKm2": 1577.6216831503532,
+    "FounderName": "\u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0421\u0444\u043E\u0440\u0446\u0430",
+    "FoundedYear": 1790,
+    "FederalDistrict": "\u041F\u0440\u0438\u0432\u043E\u043B\u0436\u0441\u043A\u0438\u0439",
+    "Name": "\u0411\u0435\u0440\u0433\u0430\u043C\u043E",
+    "Population": 159361
+  },
+  {
+    "$type": "Metropolis",
+    "NumberOfDistricts": 7,
+    "AreaKm2": 6026.740368726059,
+    "FounderName": "\u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0421\u0444\u043E\u0440\u0446\u0430",
+    "FoundedYear": 1403,
+    "FederalDistrict": "\u041F\u0440\u0438\u0432\u043E\u043B\u0436\u0441\u043A\u0438\u0439",
+    "Name": "\u041C\u0438\u043B\u0430\u043D",
+    "Population": 251604
+  },
+  {
+    "$type": "Metropolis",
+    "NumberOfDistricts": 21,
+    "AreaKm2": 8284.03741911443,
+    "FounderName": "\u041A\u0430\u0440\u043B V",
+    "FoundedYear": 1280,
+    "FederalDistrict": "\u0414\u0430\u043B\u044C\u043D\u0435\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439",
+    "Name": "\u0423\u0434\u0438\u043D\u0435",
+    "Population": 310701
+  },
+  {
+    "$type": "City",
+    "FounderName": "\u041A\u0430\u0440\u043B V",
+    "FoundedYear": 1367,
+    "FederalDistrict": "\u0421\u0435\u0432\u0435\u0440\u043E-\u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439",
+    "Name": "\u0423\u0434\u0438\u043D\u0435",
+    "Population": 417237
+  },
+  {
+    "$type": "City",
+    "FounderName": "\u0412\u0438\u0442\u0442\u043E\u0440\u0438\u043E \u042D\u043C\u0430\u043D\u0443\u044D\u043B\u0435",
+    "FoundedYear": 1038,
+    "FederalDistrict": "\u0414\u0430\u043B\u044C\u043D\u0435\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439",
+    "Name": "\u0412\u0435\u0440\u043E\u043D\u0430",
+    "Population": 440703
+  },
+  {
+    "$type": "Metropolis",
+    "NumberOfDistricts": 10,
+    "AreaKm2": 4570.846410211536,
+    "FounderName": "\u041A\u0430\u0440\u043B V",
+    "FoundedYear": 1114,
+    "FederalDistrict": "\u0426\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439",
+    "Name": "\u041F\u044C\u044F\u0447\u0435\u043D\u0446\u0430",
+    "Population": 586044
+  },
+  {
+    "$type": "City",
+    "FounderName": "\u041A\u0430\u0440\u043B V",
+    "FoundedYear": 1496,
+    "FederalDistrict": "\u0421\u0435\u0432\u0435\u0440\u043E-\u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439",
+    "Name": "\u041C\u0430\u043A\u0441\u0438\u043C\u0438\u043B\u0438\u0430\u043D\u0430",
+    "Population": 859469
+  },
+  {
+    "$type": "Metropolis",
+    "NumberOfDistricts": 16,
+    "AreaKm2": 1863.4875872082696,
+    "FounderName": "\u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0421\u0444\u043E\u0440\u0446\u0430",
+    "FoundedYear": 1815,
+    "FederalDistrict": "\u0421\u0438\u0431\u0438\u0440\u0441\u043A\u0438\u0439",
+    "Name": "\u0412\u0435\u043D\u0435\u0446\u0438\u044F",
+    "Population": 906855
+  }
+]
